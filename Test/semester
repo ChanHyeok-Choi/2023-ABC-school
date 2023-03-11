@@ -1,0 +1,2 @@
+#!/bin/sh
+curl --head --silent http://missing.csail.mit.edu

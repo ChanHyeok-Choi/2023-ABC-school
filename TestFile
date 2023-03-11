@@ -1,0 +1,22 @@
+HTTP/2 200 
+server: GitHub.com
+content-type: text/html; charset=utf-8
+last-modified: Sat, 31 Dec 2022 15:02:05 GMT
+access-control-allow-origin: *
+etag: "63b04eed-1f37"
+expires: Sun, 08 Jan 2023 07:30:24 GMT
+cache-control: max-age=600
+x-proxy-cache: MISS
+x-github-request-id: 1B2C:3681:3A6F3:4324A:63BA6EB8
+accept-ranges: bytes
+date: Mon, 09 Jan 2023 01:41:19 GMT
+via: 1.1 varnish
+age: 0
+x-served-by: cache-nrt-rjtf7700073-NRT
+x-cache: HIT
+x-cache-hits: 1
+x-timer: S1673228479.340806,VS0,VE206
+vary: Accept-Encoding
+x-fastly-request-id: ed83c260ea7c3ddf9f3bcdeefff1df6dde179e4f
+content-length: 7991
+
